@@ -88,9 +88,6 @@ langchain_groq
 groq
 ```
 
-## License
-
-This project is released under the MIT License.
 
 ## Disclaimer
 
